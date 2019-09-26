@@ -1,0 +1,4 @@
+Rust is a new system programming language developed at Mozilla. It is a competitor to C and C++ with machine-level access and no GC. But it’s not just better C. It brings many novel features of higher-level languages like Java, Scala to system-level programming. This combination of low-level access, speed of C combined with flexibility and expressiveness of functional programming language like scala makes it a very interesting language.
+
+Functional combinators are anonymous functions which allow us to manipulate the collection of objects in an elegant manner. In functional languages like Scala, we use combinators like map and flatMap extensively to manipulate collection API’s.
+
