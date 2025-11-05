@@ -1,0 +1,10 @@
+ 1347  git pull
+ 1348  cargo build
+ 1349  cargo run
+ 1350  ls -lctrh 
+ 1351  ls -lctrh  src/
+ 1352  ls -lctrh  src/bin/
+ 1353  cargo run  --bin definefunctions
+ 1354  ls -lctrh 
+ 1355  history | tail
+ 1356  history | tail > cargoHelp.txt
